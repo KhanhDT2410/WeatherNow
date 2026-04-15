@@ -26,6 +26,8 @@
 	<string>$(PRODUCT_COPYRIGHT)</string>
 	<key>NSMainNibFile</key>
 	<string>MainMenu</string>
+	<key>NSLocationUsageDescription</key>
+	<string>Ứng dụng cần vị trí hiện tại để hiển thị dự báo thời tiết chính xác hơn.</string>
 	<key>NSPrincipalClass</key>
 	<string>NSApplication</string>
 </dict>
